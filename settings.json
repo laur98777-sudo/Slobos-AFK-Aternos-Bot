@@ -2,13 +2,13 @@
   "name": "tatal lui paul",
   "bot-account": {
     "username": "tatal lui paul",
-    "password": "paul",
-    "type": "offline"
+    "password": "",
+    "type": "online"
   },
   "server": {
     "ip": "67__SMP.aternos.me",
     "port": "51689",
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "sunt tatal lui paul",
+        "o vad pe masa lui paul",
+        "mise joaca copilul la calculator!"
       ]
     },
     "chat-log": true,
